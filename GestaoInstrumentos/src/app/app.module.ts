@@ -5,6 +5,8 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HttpClientModule} from '@angular/common/http'
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { CadastroModule } from 'src/cadastro/cadastro.module';
+
 
 @NgModule({
   declarations: [
@@ -15,7 +17,7 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
     ReactiveFormsModule,
     FormsModule,
     HttpClientModule,
-
+    CadastroModule,
     AppRoutingModule
   ],
   providers: [],

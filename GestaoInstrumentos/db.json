@@ -1,19 +1,58 @@
 {
-  "posts": [
+  "cadastros": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "nomeEquipamento": "Paquimentro",
+      "patrimonio": "XPTO01",
+      "departamentoResponsavel": "Usinagem Fundidos",
+      "dataAquisicao": "10/02/2020",
+      "dataUltimaCalibracao": "10/05/2022",
+      "dataProximaCalibracao": "10/05/2023"
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 2,
+      "nomeEquipamento": "Relógio Comparador",
+      "patrimonio": "XPTO02",
+      "departamentoResponsavel": "Usinagem Fundidos",
+      "dataAquisicao": "10/02/2020",
+      "dataUltimaCalibracao": "10/05/2022",
+      "dataProximaCalibracao": "10/05/2023"
+    },
+    {
+      "id": 3,
+      "nomeEquipamento": "Multimetro",
+      "patrimonio": "XPTO03",
+      "departamentoResponsavel": "Montagem Placas",
+      "dataAquisicao": "10/02/2020",
+      "dataUltimaCalibracao": "10/05/2022",
+      "dataProximaCalibracao": "10/05/2023"
+    },
+    {
+      "id": 4,
+      "nomeEquipamento": "Paquimentro Digital",
+      "patrimonio": "XPTO04",
+      "departamentoResponsavel": "Usinagem Eixos",
+      "dataAquisicao": "10/02/2020",
+      "dataUltimaCalibracao": "10/05/2022",
+      "dataProximaCalibracao": "10/05/2023"
+    },
+    {
+      "id": 5,
+      "nomeEquipamento": "Régua ",
+      "patrimonio": "XPTO07",
+      "departamentoResponsavel": "Metrologia",
+      "dataAquisicao": "25/05/2022",
+      "dataUltimaCalibracao": "25/05/202",
+      "dataProximaCalibracao": "25/05/2023"
+    },
+    {
+      "id": 6,
+      "nomeEquipamento": "Trena",
+      "patrimonio": "XPTO08",
+      "departamentoResponsavel": "Metalúrgico 3",
+      "dataAquisicao": "15/02/2021",
+      "dataUltimaCalibracao": "15/02/2021",
+      "dataProximaCalibracao": "15/02/2024"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
