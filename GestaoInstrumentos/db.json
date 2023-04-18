@@ -1,5 +1,5 @@
 {
-  "cadastros": [
+  "cadastro": [
     {
       "id": 1,
       "nomeEquipamento": "Paquimentro",
@@ -7,7 +7,8 @@
       "departamentoResponsavel": "Usinagem Fundidos",
       "dataAquisicao": "10/02/2020",
       "dataUltimaCalibracao": "10/05/2022",
-      "dataProximaCalibracao": "10/05/2023"
+      "dataProximaCalibracao": "10/05/2023",
+      "calibrado": 1
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "departamentoResponsavel": "Usinagem Fundidos",
       "dataAquisicao": "10/02/2020",
       "dataUltimaCalibracao": "10/05/2022",
-      "dataProximaCalibracao": "10/05/2023"
+      "dataProximaCalibracao": "10/05/2023",
+      "calibrado": 1
     },
     {
       "id": 3,
@@ -25,7 +27,8 @@
       "departamentoResponsavel": "Montagem Placas",
       "dataAquisicao": "10/02/2020",
       "dataUltimaCalibracao": "10/05/2022",
-      "dataProximaCalibracao": "10/05/2023"
+      "dataProximaCalibracao": "10/05/2023",
+      "calibrado": 1
     },
     {
       "id": 4,
@@ -34,7 +37,8 @@
       "departamentoResponsavel": "Usinagem Eixos",
       "dataAquisicao": "10/02/2020",
       "dataUltimaCalibracao": "10/05/2022",
-      "dataProximaCalibracao": "10/05/2023"
+      "dataProximaCalibracao": "10/05/2023",
+      "calibrado": 1
     },
     {
       "id": 5,
@@ -43,7 +47,8 @@
       "departamentoResponsavel": "Metrologia",
       "dataAquisicao": "25/05/2022",
       "dataUltimaCalibracao": "25/05/202",
-      "dataProximaCalibracao": "25/05/2023"
+      "dataProximaCalibracao": "25/05/2023",
+      "calibrado": 1
     },
     {
       "id": 6,
@@ -52,7 +57,8 @@
       "departamentoResponsavel": "Metalúrgico 3",
       "dataAquisicao": "15/02/2021",
       "dataUltimaCalibracao": "15/02/2021",
-      "dataProximaCalibracao": "15/02/2024"
+      "dataProximaCalibracao": "15/02/2024",
+      "calibrado": 1
     }
   ]
 }
